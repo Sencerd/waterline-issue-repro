@@ -1,5 +1,5 @@
 {
-  "name": "bugrepro",
+  "name": "waterline-issue-repro",
   "private": true,
   "version": "0.0.0",
   "description": "a Sails application",
@@ -34,7 +34,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/alex/bugrepro.git"
+    "url": "git://github.com/Sencerd/waterline-issue-repro.git"
   },
   "author": "alex",
   "license": ""
